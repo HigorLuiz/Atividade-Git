@@ -1,2 +1,2 @@
-# Atividade-Git
-Tarefa do Thiago
+Anna Laura
+Higor Luiz
